@@ -46,20 +46,20 @@ print(Norm_of_matric)
 
 ```
 ## Input:
-### 1-Norm of a Matrix
+#### 1-Norm of a Matrix
 ![image](https://github.com/AVINASH05T/Norm-of-a-matrix/assets/151514286/3846ee06-98f6-4965-8912-3ec6505908e9)
-### 2-Norm of a Matrix
+#### 2-Norm of a Matrix
 ![image](https://github.com/AVINASH05T/Norm-of-a-matrix/assets/151514286/1f315f52-166c-4aa0-b83a-1161e444cfc9)
-### Infinity Norm of a Matrix
+#### Infinity Norm of a Matrix
 ![image](https://github.com/AVINASH05T/Norm-of-a-matrix/assets/151514286/ad7bab78-4f85-44aa-bce7-80bf94265970)
 
 
 ## Output:
-### 1-Norm of a Matrix
+#### 1-Norm of a Matrix
 ![image](https://github.com/AVINASH05T/Norm-of-a-matrix/assets/151514286/162732b3-f4dc-4510-b123-69659d91e70d)
-### 2-Norm of a Matrix
+#### 2-Norm of a Matrix
 ![image](https://github.com/AVINASH05T/Norm-of-a-matrix/assets/151514286/aa57b1b7-3ef1-4320-980f-202e0d2693ed)
-### Infinity Norm of a Matrix
+#### Infinity Norm of a Matrix
 ![image](https://github.com/AVINASH05T/Norm-of-a-matrix/assets/151514286/317d199e-b163-4c41-9c04-6054fa8e0a17)
 
 
